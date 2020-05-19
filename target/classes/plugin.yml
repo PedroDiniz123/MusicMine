@@ -1,0 +1,9 @@
+name: MusicMine
+author:
+main: me.core.MusicMine
+version: 1.0
+commands:
+  music:
+    usage: §7Use §9/music
+  playnote:
+    usage: §7Use §9/playnote <F#-1 - F#2> (N0 -> N)

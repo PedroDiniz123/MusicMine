@@ -1,0 +1,166 @@
+config:
+  compasses:
+    # Amount of compasses (default 4)
+    lenght: 16
+    piano:
+      compass_0:
+        - " "
+        - "G1"
+        - "F#2"
+        - "E2"
+      compass_1:
+        - "E2"
+        - "D2"
+        - "C#2"
+        - "D2"
+      compass_2:
+        - "F#2"
+        - "E2"
+        - "D2"
+        - "C2"
+      compass_3:
+        - "C2"
+        - "B1"
+        - "A#1"
+        - "B1"
+      compass_4:
+        - "E2"
+        - "D2"
+        - "C2"
+        - "B1"
+      compass_5:
+        - "B1"
+        - "A1"
+        - "G#1"
+        - "A1"
+      compass_6:
+        - "D2"
+        - "C2"
+        - "B1"
+        - "A1"
+      compass_7:
+        - "A1"
+        - "G1"
+        - "F#1"
+        - "G1"
+      compass_8:
+        - "C2"
+        - "B1"
+        - "A1"
+        - "G1"
+      compass_9:
+        - "F#1"
+        - "E1"
+        - "D#1"
+        - "E1"
+      compass_10:
+        - "A1"
+        - "G1"
+        - "F#1"
+        - "E1"
+      compass_11:
+        - "E1"
+        - "D1"
+        - "C#1"
+        - "D1"
+      compass_12:
+        - "E1"
+        - "F#1"
+        - "G1"
+        - "A1"
+      compass_13:
+        - "B1"
+        - "C2"
+        - "C#2"
+        - "D2"
+      compass_14:
+        - "D#2"
+        - "E2"
+        - "F2"
+        - "F#2"
+      compass_15:
+        - "G1"
+        - " "
+        - " "
+        - " "
+    bass:
+      compass_0:
+        - " "
+        - " "
+        - " "
+        - " "
+      compass_1:
+        - "D2"
+        - " "
+        - " "
+        - " "
+      compass_2:
+        - "C2"
+        - " "
+        - " "
+        - " "
+      compass_3:
+        - "B1"
+        - " "
+        - " "
+        - " "
+      compass_4:
+        - "C2"
+        - "B1"
+        - "A1"
+        - "G1"
+      compass_5:
+        - "F#1"
+        - " "
+        - " "
+        - " "
+      compass_6:
+        - "D#2"
+        - " "
+        - " "
+        - " "
+      compass_7:
+        - "E2"
+        - " "
+        - " "
+        - " "
+      compass_8:
+        - "B1"
+        - "G1"
+        - "E1"
+        - "D1"
+      compass_9:
+        - "C1"
+        - " "
+        - " "
+        - " "
+      compass_10:
+        - "C#"
+        - " "
+        - " "
+        - " "
+      compass_11:
+        - "D1"
+        - " "
+        - " "
+        - " "
+      compass_12:
+        - "E1"
+        - " "
+        - " "
+        - " "
+      compass_13:
+        - "A2"
+        - " "
+        - " "
+        - " "
+      compass_14:
+        - "D1"
+        - " "
+        - " "
+        - " "
+      compass_15:
+        - "G1"
+        - " "
+        - " "
+        - " "
